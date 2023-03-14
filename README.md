@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FambideXtrous9%2FambideXtrous9&count_bg=%233DC89F&title_bg=%234A1839&icon=lgtm.svg&icon_color=%2352C212&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![GitHub watchers](https://img.shields.io/github/watchers/ambideXtrous9/ambideXtrous9?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/ambideXtrous9?style=social)
 
 <!--
 **ambideXtrous9/ambideXtrous9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
