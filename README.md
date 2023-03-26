@@ -14,6 +14,8 @@ Thank you for visiting my GitHub profile!
 ![Sushovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambideXtrous9&show_icons=true&theme=dracula)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambideXtrous9&layout=compact)](https://github.com/ambideXtrous9/github-readme-stats)
+
 [Kaggle](https://www.kaggle.com/sushovansaha9)
 
 [LinkedIn](https://in.linkedin.com/in/sushovan-saha-29a00a113)
