@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github&perline=7)](https://skillicons.dev)
 
 
-<img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Anaconda.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Kaggle.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Jupyter.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/colab.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/keras.png?raw=true"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Anaconda.png?raw=true"/><img height=45 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Kaggle.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Jupyter.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/colab.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/keras.png?raw=true"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 
 Thank you for visiting my GitHub profile!
