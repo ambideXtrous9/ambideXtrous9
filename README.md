@@ -28,17 +28,11 @@ Thank you for visiting my GitHub profile!
   <a href="https://www.instagram.com/ambidextrous_9/">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/sushovan.saha.16/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
 </div>
 
-
-
-
-
-
-
-[Kaggle](https://www.kaggle.com/sushovansaha9)
-
-[LinkedIn](https://in.linkedin.com/in/sushovan-saha-29a00a113)
 
 ![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
