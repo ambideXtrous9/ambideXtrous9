@@ -1,6 +1,6 @@
 ### Hi, I am Sushovan 🤓 !
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31372586/227759959-b07c974b-9fcf-4d09-aba6-acbbc2fbd775.gif" height="563" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="[https://user-images.githubusercontent.com/31372586/227759959-b07c974b-9fcf-4d09-aba6-acbbc2fbd775.gif](https://static.wixstatic.com/media/bb7b70_d5fde322f7914060b7d997ba9d506a50~mv2.gif)" height="563" /></a>
 
 ## About Me
 
