@@ -11,7 +11,7 @@
 📚 In my free time, I like to contribute in [Kaggle](https://www.kaggle.com/sushovansaha9), read ML related blogs and updates. I'm always looking for ways to stay up-to-date with the latest developments in the field.
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,vscode git,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,vscode,git&perline=5)](https://skillicons.dev)
 
 
 Thank you for visiting my GitHub profile!
