@@ -1,7 +1,6 @@
 ## Hi, I am Sushovan 🤓 !
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://64.media.tumblr.com/730e82792b616601d00dd7ea807e7d3c/tumblr_mnztpyaoys1qiz3j8o1_r4_500.gif" height="200" /></a><a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/ironman.gif?raw=true" height="200" /></a><a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/thor.gif?raw=true" height="200" /></a><a href="URL_REDIRECT" target="blank"><img align="center" src="https://media0.giphy.com/media/MRH15ebBQboUMedyks/giphy.gif?cid=ecf05e47dwegx8qq9o18dclul0vdjxxn80e4lndg3rzs073f&rid=giphy.gif&ct=g" height="200" /></a><a href="URL_REDIRECT" target="blank"><img align="center" src="https://media2.giphy.com/media/hrMCKA51Q7LlRCv8Me/giphy.gif?cid=ecf05e476g6wo0umtj9v78y2z01i6guzo35vpdtake67aqgn&rid=giphy.gif&ct=s" height="200" /></a>
-
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media0.giphy.com/media/MRH15ebBQboUMedyks/giphy.gif?cid=ecf05e47dwegx8qq9o18dclul0vdjxxn80e4lndg3rzs073f&rid=giphy.gif&ct=g" height="200" /></a>
 
 
 ## About Me
