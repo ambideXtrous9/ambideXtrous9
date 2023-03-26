@@ -24,8 +24,6 @@ Thank you for visiting my GitHub profile!
 ![Sushovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambideXtrous9&show_icons=true&theme=dracula)
 
 
-### Connect Me on:
-
 
 <div id="badges">
   <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113">
