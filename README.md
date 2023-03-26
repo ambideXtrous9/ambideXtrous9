@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hi there! I'm Sushovan Saha, a Machine Learning (ML) researcher and enthusiast specializing in Natural Language Processing (NLP) and Computer Vision (CV). I'm currently pursuing my M.Tech in Data Science at IIT Guwahati.
+👋 Hi there! I'm Sushovan Saha, a Machine Learning (ML) enthusiast specializing in Natural Language Processing (NLP) and Computer Vision (CV). I'm currently pursuing my M.Tech in Data Science at IIT Guwahati.
 
 🌟 I'm passionate about exploring the possibilities of ML to solve real-world problems and improve people's lives. I love working on challenging projects that require me to stretch my abilities and learn new things.
 
