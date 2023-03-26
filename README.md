@@ -11,10 +11,10 @@
 📚 In my free time, I like to contribute in [Kaggle](https://www.kaggle.com/sushovansaha9), read ML related blogs and updates. I'm always looking for ways to stay up-to-date with the latest developments in the field.
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,vscode,git,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,vscode,git,github&perline=7)](https://skillicons.dev)
 
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"/><img height=70 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/lightning.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/hugginface.png?raw=true"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"/><img height=60 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/lightning.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/hugginface.png?raw=true"/>
 
 
 Thank you for visiting my GitHub profile!
