@@ -16,7 +16,7 @@ Thank you for visiting my GitHub profile!
 ![Sushovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambideXtrous9&show_icons=true&theme=dracula)
 
 
-![image]({https://github-profile-trophy.vercel.app/?username={ambideXtrous9}})
+![image]({https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white})
 
 
 
