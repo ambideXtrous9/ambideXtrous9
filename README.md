@@ -1,9 +1,9 @@
 ### Hi, I am Sushovan ! 👋
 
 
-![Kaggle](https://www.kaggle.com/sushovansaha9)
+[Kaggle](https://www.kaggle.com/sushovansaha9)
 
-![LinkedIn](https://in.linkedin.com/in/sushovan-saha-29a00a113)
+[LinkedIn](https://in.linkedin.com/in/sushovan-saha-29a00a113)
 
 ![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
