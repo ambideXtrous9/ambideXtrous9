@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi, I am Sushovan ! 👋
 
 
-![GitHub followers](https://img.shields.io/github/followers/ambideXtrous9?style=social)
+![Kaggle](https://www.kaggle.com/sushovansaha9)
 
-[![Kaggle](![Kaggle_logo](https://user-images.githubusercontent.com/31372586/227758118-9d0db835-7c79-4869-b6f6-d2163d227743.png)
-)](https://www.kaggle.com/sushovansaha9)
+![LinkedIn](https://in.linkedin.com/in/sushovan-saha-29a00a113)
 
+![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
 <!--
 **ambideXtrous9/ambideXtrous9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
