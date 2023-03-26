@@ -1,5 +1,7 @@
 ### Hi, I am Sushovan 🤓 !
 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="![ML](https://user-images.githubusercontent.com/31372586/227759959-b07c974b-9fcf-4d09-aba6-acbbc2fbd775.gif)" height="100" /></a>
+
 ## About Me
 
 👋 Hi there! I'm Sushovan Saha, a Machine Learning (ML) enthusiast specializing in Natural Language Processing (NLP) and Computer Vision (CV). I'm currently pursuing my M.Tech in Data Science at IIT Guwahati.
@@ -11,7 +13,8 @@
 
 Thank you for visiting my GitHub profile!
 
-![Sushovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambideXtrous9&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambideXtrous9&layout=compact)](https://github.com/ambideXtrous9/github-readme-stats)
+![Sushovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambideXtrous9&show_icons=true&theme=dracula)
+
 
 [Kaggle](https://www.kaggle.com/sushovansaha9)
 
