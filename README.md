@@ -1,4 +1,4 @@
-### Hi, I am Sushovan 🤓 !
+## Hi, I am Sushovan 🤓 !
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.pinimg.com/originals/e8/a2/f3/e8a2f3b850b1a8681561dbeb43201fea.gif" height="300" /></a>
 
@@ -11,11 +11,11 @@
 📚 In my free time, I like to contribute in [Kaggle](https://www.kaggle.com/sushovansaha9), read ML related blogs and updates. I'm always looking for ways to stay up-to-date with the latest developments in the field.
 
 
-# My Skills : 
+### My Skills : 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github&perline=7)](https://skillicons.dev)
 
 
-<img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Anaconda.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Jupyter.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Kaggle.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/keras.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/colab.png?raw=true"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Anaconda.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Kaggle.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/Jupyter.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/colab.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/keras.png?raw=true"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 
 Thank you for visiting my GitHub profile!
