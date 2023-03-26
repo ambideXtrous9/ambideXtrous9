@@ -11,6 +11,8 @@
 
 Thank you for visiting my GitHub profile!
 
+![Sushovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambideXtrous9&show_icons=true&theme=dracula)
+
 
 [Kaggle](https://www.kaggle.com/sushovansaha9)
 
