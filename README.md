@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github&perline=7)](https://skillicons.dev)
 
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"/><img height=60 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/keras.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/colab.png?raw=true"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/keras.png?raw=true"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/colab.png?raw=true"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 
 Thank you for visiting my GitHub profile!
