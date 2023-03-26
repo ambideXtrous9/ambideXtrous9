@@ -19,14 +19,14 @@ Thank you for visiting my GitHub profile!
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.kaggle.com/sushovansaha9">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/ambidextrous_9/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
 
