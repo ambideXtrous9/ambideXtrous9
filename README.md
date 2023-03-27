@@ -1,7 +1,7 @@
 ## Hi, I am Sushovan 🤓 !
 
 <p align="center">
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31372586/228060648-289f38dd-8231-4a23-b3b5-17b0edc595d2.png" height="200" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7580afe4-8ee4-4214-bada-9c78af8f9404/db7pyk1-bf3f615e-ac7a-48f1-a388-e8f13b48aa47.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ODBhZmU0LThlZTQtNDIxNC1iYWRhLTljNzhhZjhmOTQwNFwvZGI3cHlrMS1iZjNmNjE1ZS1hYzdhLTQ4ZjEtYTM4OC1lOGYxM2I0OGFhNDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HjuliOH8DlXrHNfFeqZMgDVwUh6GE3oUG876N9rllyM" height="200" /></a>
 </p>
 
 
