@@ -1,6 +1,6 @@
 ## Hi, I am Sushovan 🤓 !
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media0.giphy.com/media/MRH15ebBQboUMedyks/giphy.gif?cid=ecf05e47dwegx8qq9o18dclul0vdjxxn80e4lndg3rzs073f&rid=giphy.gif&ct=g" height="400" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media0.giphy.com/media/MRH15ebBQboUMedyks/giphy.gif?cid=ecf05e47dwegx8qq9o18dclul0vdjxxn80e4lndg3rzs073f&rid=giphy.gif&ct=g" height="300" /></a>
 
 
 ## About Me
