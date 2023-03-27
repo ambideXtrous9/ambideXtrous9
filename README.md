@@ -1,7 +1,7 @@
 ## Hi, I am Sushovan 🤓 !
 
 <p align="center">
-  <a href="URL_REDIRECT" target="blank"><img align="center"      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RlZDBmZmI0MTkzNmFkZWMyY2RlMWNkNmEzMmE0MjgzOGI3OGE2YiZjdD1z/jSDYWQg89gUBtYkvtt/giphy.gif"    height="200" /></a>
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" height="200" /></a>
 </p>
 
 
