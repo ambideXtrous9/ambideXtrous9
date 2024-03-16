@@ -46,11 +46,14 @@ Thank you for visiting my GitHub profile!
   </a>
 </div>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0"> 
-
 
 ![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1" alt="Recent Article 1"> 
 
 
 <!--
