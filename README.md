@@ -48,9 +48,12 @@ Thank you for visiting my GitHub profile!
 
 
 
-[](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=sushovansaha95)
 
 ![](https://komarev.com/ghpvc/?username=ambideXtrous9)
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 0"> 
+
 
 <!--
 **ambideXtrous9/ambideXtrous9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
