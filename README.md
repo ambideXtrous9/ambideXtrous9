@@ -47,10 +47,7 @@ Thank you for visiting my GitHub profile!
 </div>
 
 
-[![](https://komarev.com/ghpvc/?username=ambideXtrous9)]
-
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ambideXtrous9}&theme={github_dark})]
+![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
 
 ### My Medium Blogs
