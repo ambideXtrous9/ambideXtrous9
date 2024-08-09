@@ -49,6 +49,8 @@ Thank you for visiting my GitHub profile!
 
 ![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
+<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?sushovansaha9" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
+
 ### My Medium Blogs
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0"> 
