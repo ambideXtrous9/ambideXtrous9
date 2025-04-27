@@ -19,6 +19,12 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github,docker,gcp,aws,githubactions&perline=8)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=langchain&perline=8)](https://skillicons.dev)
 
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=python&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)  
+![Qwen](https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=python&logoColor=white)  
+![Gemma](https://img.shields.io/badge/Gemma-000000?style=for-the-badge&logo=python&logoColor=white)  
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=python&logoColor=white)  
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=python&logoColor=white)
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png"/><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true"/><img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"/><img height=50 src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/lightning.png?raw=true"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
