@@ -5,13 +5,28 @@
 </p>
 
 
-## About Me
+## 🌟 About Me
 
-👋 Hi there! I'm **Sushovan Saha**, a **Machine Learning (ML)** enthusiast specializing in **Natural Language Processing (NLP)** and Computer Vision (CV). I did my M.Tech in **Data Science** from **IIT Guwahati**. I am also a **Kaggle Notebook Expert**.
+👋 Hi there! I'm **Sushovan Saha** — a passionate **Machine Learning (ML)** practitioner with deep interests in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and the transformative capabilities of **Large Language Models (LLMs)**.
 
-🌟 I'm passionate about exploring the possibilities of ML to solve real-world problems and improve people's lives. I love working on challenging projects that require me to stretch my abilities and learn new things.
+🎓 I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems.
 
-📚 In my free time, I like to contribute in [Kaggle](https://www.kaggle.com/sushovansaha9), Write ML blogs in [Medium](https://medium.com/@sushovansaha95), read ML related blogs and updates. I'm always looking for ways to stay up-to-date with the latest developments in the field.
+🚀 I specialize in:
+- **LLMs & Generative AI**: Proficient in **LangChain**, **LangGraph**, **Crew AI**, and building **Agentic Workflows**
+- **Applied ML & Deep Learning**: End-to-end project experience across NLP and CV domains
+- **MLOps & Scalable ML Systems**: Focus on production-grade pipelines, model deployment, and monitoring
+
+🛠️ **Featured App**  
+Explore my latest project powered by Gen AI agents and real-time research:  
+👉 [AI Research Agent App](https://ambidextrous.streamlit.app/)
+
+📚 In my free time, you’ll find me:
+- Contributing to the ML community on [Kaggle](https://www.kaggle.com/sushovansaha9)
+- Writing practical ML blogs on [Medium](https://medium.com/@sushovansaha95)
+- Exploring new AI tools, frameworks, and academic papers to stay at the cutting edge
+
+💡 I'm always eager to collaborate on innovative projects, exchange ideas, and learn from the community. Let’s build something amazing with AI! 🤝
+
 
 
 ### My Skills : 
