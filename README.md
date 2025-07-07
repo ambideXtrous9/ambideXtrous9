@@ -26,7 +26,7 @@
   <img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true" width="50" height="50"/>
   <img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" width="50" height="50"/>
   <img src="https://miro.medium.com/v2/resize:fit:1196/0*GuAKET2lI82IcBrW.png" width="50" height="50"/>
-  <img src="https://images.seeklogo.com/logo-png/61/1/crew-ai-logo-png_seeklogo-619843.png" width="50" height="50"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*-7HC-GJCxjn-Dm7i.png" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50"/>
   <img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/lightning.png?raw=true" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
