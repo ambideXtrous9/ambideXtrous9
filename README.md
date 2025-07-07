@@ -1,7 +1,7 @@
 ## Hi, I am Sushovan 🤓 !
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="blank"><img align="center" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" height="200" /></a>
+  <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="blank"><img align="center" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" width="200" height="200" /></a>
 </p>
 
 
@@ -24,12 +24,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" height="50"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="50" height="50"/>
   <img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true" width="50" height="50"/>
+  <img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" width="50" height="50"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1196/0*GuAKET2lI82IcBrW.png" width="50" height="50"/>
+  <img src="https://images.seeklogo.com/logo-png/61/1/crew-ai-logo-png_seeklogo-619843.png" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50"/>
   <img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/lightning.png?raw=true" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
-
-
 
 
 Thank you for visiting my GitHub profile!
