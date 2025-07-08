@@ -86,13 +86,6 @@ Thank you for visiting my GitHub profile!
     src="https://raw.githubusercontent.com/ambideXtrous9/ambideXtrous9/3fd9e525bceaee2b3db9425ba29de45ff8075e3d/profile-3d-contrib/profile-season-animate.svg" />
 </div>
 
-<!-- real time -->
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-</a
-
-![](https://komarev.com/ghpvc/?username=ambideXtrous9)
-
 
 
 ### My Medium Blogs
@@ -100,4 +93,7 @@ Thank you for visiting my GitHub profile!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1" alt="Recent Article 1"> 
+
+![](https://komarev.com/ghpvc/?username=ambideXtrous9)
+
 
