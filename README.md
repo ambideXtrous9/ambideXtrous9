@@ -20,7 +20,7 @@
 
 🛠️ **Featured App**  
 Explore my latest project powered by Gen AI agents and real-time research:  
-👉 [AI Research Agent App](https://ambidextrous.streamlit.app/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> [AI Research Agent App](https://ambidextrous.streamlit.app/)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> In my free time, you’ll find me:
 - Contributing to the ML community on [Kaggle](https://www.kaggle.com/sushovansaha9)
