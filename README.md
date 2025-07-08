@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems.
 
-🚀 I specialize in:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> I specialize in:
 - **LLMs & Generative AI**: Proficient in **LangChain**, **LangGraph**, **Crew AI**, and building **Agentic Workflows**
 - **Applied ML & Deep Learning**: End-to-end project experience across NLP and CV domains
 - **MLOps & Scalable ML Systems**: Focus on production-grade pipelines, model deployment, and monitoring
