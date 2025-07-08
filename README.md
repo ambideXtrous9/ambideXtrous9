@@ -7,7 +7,7 @@
 </p>
 
 
-## 🌟 About Me
+## 🌟 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
 
 👋 Hi there! I'm **Sushovan Saha** — a passionate **Machine Learning (ML)** practitioner with deep interests in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and the transformative capabilities of **Large Language Models (LLMs)**.
 
