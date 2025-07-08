@@ -11,7 +11,7 @@
 
 👋 Hi there! I'm **Sushovan Saha** — a passionate **Machine Learning (ML)** practitioner with deep interests in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and the transformative capabilities of **Large Language Models (LLMs)**.
 
-🎓 I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems.
 
 🚀 I specialize in:
 - **LLMs & Generative AI**: Proficient in **LangChain**, **LangGraph**, **Crew AI**, and building **Agentic Workflows**
