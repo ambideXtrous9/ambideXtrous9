@@ -9,20 +9,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" height="40" /> About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /> Hi there! I'm **Sushovan Saha** — a passionate **Machine Learning (ML)** practitioner with deep interests in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and the transformative capabilities of **Large Language Models (LLMs)**.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="30" height="30" /> Hi there! I'm **Sushovan Saha** — a passionate **Machine Learning (ML)** practitioner with deep interests in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and the transformative capabilities of **Large Language Models (LLMs)**.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> I specialize in:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" /> I specialize in:
 - **LLMs & Generative AI**: Proficient in **LangChain**, **LangGraph**, **Crew AI**, and building **Agentic Workflows**
 - **Applied ML & Deep Learning**: End-to-end project experience across NLP and CV domains
 - **MLOps & Scalable ML Systems**: Focus on production-grade pipelines, model deployment, and monitoring
 
-🛠️ **Featured App**  
-Explore my latest project powered by Gen AI agents and real-time research:  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> [AI Research Agent App](https://ambidextrous.streamlit.app/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" /> **Featured App**  
+Explore my latest project powered by Gen AI agents and real-time research: [AI Research Agent App](https://ambidextrous.streamlit.app/)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> In my free time, you’ll find me:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> In my free time, you’ll find me:
 - Contributing to the ML community on [Kaggle](https://www.kaggle.com/sushovansaha9)
 - Writing practical ML blogs on [Medium](https://medium.com/@sushovansaha95)
 - Exploring new AI tools, frameworks, and academic papers to stay at the cutting edge
