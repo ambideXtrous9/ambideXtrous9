@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ambideXtrous9)
+
 ## Hi, I am Sushovan 🤓 !
 
 <p align="center">
@@ -73,13 +75,16 @@ Thank you for visiting my GitHub profile!
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
 <div align="center">
   <img
     alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/ambideXtrous9/ambideXtrous9/output/github-snake.svg" />
 </div>
+
+
+![Seasonal 3D Contrib](./profile-3d-contrib/profile-season-animate.svg)
+
 
 
 ### My Medium Blogs
