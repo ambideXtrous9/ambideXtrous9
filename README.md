@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
-## Hi, I am Sushovan 🤓 !
+## Hi, I am Sushovan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="50" height="50" /> !
 
 <p align="center">
   <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="blank"><img align="center" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" width="200" height="200" /></a>
