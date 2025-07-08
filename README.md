@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ambideXtrous9)
-
 ## Hi, I am Sushovan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="40" height="40" /> !
 
 <p align="center">
@@ -88,6 +86,7 @@ Thank you for visiting my GitHub profile!
     src="https://raw.githubusercontent.com/ambideXtrous9/ambideXtrous9/3fd9e525bceaee2b3db9425ba29de45ff8075e3d/profile-3d-contrib/profile-season-animate.svg" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
 
 
