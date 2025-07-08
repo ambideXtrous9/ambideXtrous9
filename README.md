@@ -22,7 +22,7 @@
 Explore my latest project powered by Gen AI agents and real-time research:  
 👉 [AI Research Agent App](https://ambidextrous.streamlit.app/)
 
-📚 In my free time, you’ll find me:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> In my free time, you’ll find me:
 - Contributing to the ML community on [Kaggle](https://www.kaggle.com/sushovansaha9)
 - Writing practical ML blogs on [Medium](https://medium.com/@sushovansaha95)
 - Exploring new AI tools, frameworks, and academic papers to stay at the cutting edge
