@@ -83,4 +83,4 @@ Thank you for visiting my GitHub profile!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1" alt="Recent Article 1"> 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ambideXtrous9)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ambidextrous9)](https://github.com/ryo-ma/github-profile-trophy)
