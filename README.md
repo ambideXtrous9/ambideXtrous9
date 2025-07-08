@@ -75,6 +75,12 @@ Thank you for visiting my GitHub profile!
 
 ![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 
+<div align="center">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ambideXtrous9/ambideXtrous9/output/github-snake.svg" />
+</div>
+
 
 ### My Medium Blogs
 
