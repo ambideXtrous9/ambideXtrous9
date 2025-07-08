@@ -83,7 +83,12 @@ Thank you for visiting my GitHub profile!
 </div>
 
 
-![Seasonal 3D Contrib](./profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+  <img
+    alt="GitHub contribution Map"
+    src="https://raw.githubusercontent.com/ambideXtrous9/ambideXtrous9/3fd9e525bceaee2b3db9425ba29de45ff8075e3d/profile-3d-contrib/profile-season-animate.svg" />
+</div>
+
 
 
 
