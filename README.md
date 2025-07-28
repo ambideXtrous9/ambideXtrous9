@@ -76,7 +76,7 @@ Thank you for visiting my GitHub profile!
 <div align="center">
   <img
     alt="GitHub contribution snake"
-    src="ambideXtrous9/output/github-snake.svg" />
+    src="/github-snake.svg" />
 </div>
 
 
