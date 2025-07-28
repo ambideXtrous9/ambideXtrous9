@@ -76,7 +76,7 @@ Thank you for visiting my GitHub profile!
 <div align="center">
   <img
     alt="GitHub contribution snake"
-    src="/github-snake.svg" />
+    src="/snake/github-snake.svg" />
 </div>
 
 
