@@ -1,4 +1,5 @@
 name: Generate Contribution Snake
+
 on:
   schedule:
     - cron: "0 */12 * * *"  # every 12 hours
@@ -7,17 +8,32 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout the main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main  # checkout main branch to commit snake SVGs there
+
+      - name: Generate GitHub Contribution Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ambideXtrous9
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+
+      - name: Move output to specific folder
+        run: |
+          mkdir -p snake
+          cp dist/*.svg snake/
+
+      - name: Commit and push changes to main branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snake/*.svg
+          git commit -m "Update GitHub contribution snake SVGs" || echo "No changes to commit"
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
