@@ -76,14 +76,14 @@ Thank you for visiting my GitHub profile!
 <div align="center">
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/ambideXtrous9/ambideXtrous9/output/github-snake.svg" />
+    src="ambideXtrous9/output/github-snake.svg" />
 </div>
 
 
 <div align="center">
   <img
-    alt="/ambideXtrous9/main/GitHub contribution Map"
-    src="profile-3d-contrib/profile-season-animate.svg" />
+    alt="GitHub contribution Map"
+    src="/ambideXtrous9/main/profile-3d-contrib/profile-season-animate.svg" />
 </div>
 
 
