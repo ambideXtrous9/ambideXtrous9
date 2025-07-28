@@ -82,7 +82,7 @@ Thank you for visiting my GitHub profile!
 
 <div align="center">
   <img
-    alt="GitHub contribution Map"
+    alt="/ambideXtrous9/main/GitHub contribution Map"
     src="profile-3d-contrib/profile-season-animate.svg" />
 </div>
 
