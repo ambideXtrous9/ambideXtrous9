@@ -83,7 +83,7 @@ Thank you for visiting my GitHub profile!
 <div align="center">
   <img
     alt="GitHub contribution Map"
-    src="main/profile-3d-contrib/profile-season-animate.svg" />
+    src="/profile-3d-contrib/profile-season-animate.svg" />
 </div>
 
 
