@@ -18,6 +18,8 @@
 - **MLOps & Scalable ML Systems**: Focus on production-grade pipelines, model deployment, and monitoring **MLFlow**
 - **API & Deployment**: Experience in deploying models as APIs using **FastAPI** and deploying on cloud platforms like **AWS and GCP** 
 - **CI/CD**: Experience in setting up CI/CD pipelines using **GitHub Actions**
+- **Data Science**: Experience in data analysis, statistical analysis, data visualization, and data preprocessing using **Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**
+
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github,docker,gcp,aws,githubactions&perline=10)](https://skillicons.dev)  
 
