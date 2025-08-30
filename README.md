@@ -9,26 +9,15 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="30" height="30" /> Hi there! I'm **Sushovan Saha** — a passionate **Machine Learning (ML)** practitioner with deep interests in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and the transformative capabilities of **Large Language Models (LLMs)**.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="30" height="30" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="30" height="30" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems. Currently working as a founding **Machine Learning Engineer** at a Stealth Startup.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> I specialize in:
-- **LLMs & Generative AI**: Proficient in **LangChain**, **LangGraph**, **Crew AI**, and building **Agentic Workflows**
-- **Applied ML & Deep Learning**: End-to-end project experience across NLP and CV domains
-- **MLOps & Scalable ML Systems**: Focus on production-grade pipelines, model deployment, and monitoring
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" /> **Featured App**  
-
-Explore my latest project powered by Gen AI agents and real-time research: [AI Research Agent App](https://ambidextrous.streamlit.app/)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> In my free time, you’ll find me:
-- Contributing to the ML community on [Kaggle](https://www.kaggle.com/sushovansaha9)
-- Writing practical ML blogs on [Medium](https://medium.com/@sushovansaha95)
-- Exploring new AI tools, frameworks, and academic papers to stay at the cutting edge
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" /> I'm always eager to collaborate on innovative projects, exchange ideas, and learn from the community. Let’s build something amazing with AI! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" />
-
-
-### My Skills : 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> My Skills:
+- **LLMs & Generative AI**: Proficient in **RAG, Agentic RAG, LangChain, LangGraph, Crew AI**, and building **Agentic Workflows**  
+- **Applied ML & Deep Learning**: End-to-end project experience across NLP and CV domains  
+- **Model Fine-Tuning**: Experience in fine-tuning models on custom datasets in **HuggingFace, Unsloth, Pytorch and Pytorch Lightning**
+- **MLOps & Scalable ML Systems**: Focus on production-grade pipelines, model deployment, and monitoring **MLFlow**
+- **API & Deployment**: Experience in deploying models as APIs using **FastAPI** and deploying on cloud platforms like **AWS and GCP** 
+- **CI/CD**: Experience in setting up CI/CD pipelines using **GitHub Actions**
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github,docker,gcp,aws,githubactions&perline=10)](https://skillicons.dev)  
 
@@ -46,6 +35,16 @@ Explore my latest project powered by Gen AI agents and real-time research: [AI R
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" /> **Featured App**  
+
+Explore my latest project powered by Gen AI agents and real-time research: [AI Research Agent App](https://ambidextrous.streamlit.app/)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> In my free time, you’ll find me:
+- Contributing to the ML community on [Kaggle](https://www.kaggle.com/sushovansaha9)
+- Writing practical ML blogs on [Medium](https://medium.com/@sushovansaha95)
+- Exploring new AI tools, frameworks, and academic papers to stay at the cutting edge
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" /> I'm always eager to collaborate on innovative projects, exchange ideas, and learn from the community. Let’s build something amazing with AI! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" />
 
 Thank you for visiting my GitHub profile!
 
