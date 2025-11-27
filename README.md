@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="30" height="30" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems. Currently working as a founding **Machine Learning Engineer** at a Stealth Startup.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> My Skills:
-- **LLMs & Generative AI**: Proficient in **RAG, Agentic RAG, MCP, LangChain, LangGraph, Crew AI**, and building **Agentic Workflows**  
+- **LLMs & Generative AI**: Proficient in **RAG, Agentic RAG, MCP, LangChain, LangGraph, Google ADK**, and building **Agentic Workflows**  
 - **Applied ML & Deep Learning**: End-to-end project experience across NLP and CV domains  
 - **Model Fine-Tuning**: Experience in fine-tuning models on custom datasets in **HuggingFace, Unsloth, Pytorch and Pytorch Lightning**
 - **MLOps & Scalable ML Systems**: Focus on production-grade pipelines, model deployment, and monitoring **MLFlow**
