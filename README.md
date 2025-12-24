@@ -50,8 +50,7 @@ Explore my latest project powered by Gen AI agents and real-time research: [AI R
 
 Thank you for visiting my GitHub profile!
 
-![Sushovan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ambideXtrous9&show_icons=true&count_private=true&theme=vue)
-
+![Sushovan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ambideXtrous9&show_icons=true&theme=transparent)
 
 
 <div id="badges">
