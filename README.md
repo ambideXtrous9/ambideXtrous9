@@ -21,8 +21,6 @@
 - **Data Science**: Experience in data analysis, statistical analysis, data visualization, and data preprocessing using **Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github,docker,gcp,aws,githubactions&perline=10)](https://skillicons.dev)  
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50"/>
@@ -36,6 +34,8 @@
   <img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/lightning.png?raw=true" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github,docker,gcp,aws,githubactions&perline=11)](https://skillicons.dev)  
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" /> **Featured App**  
 
