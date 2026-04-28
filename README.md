@@ -75,23 +75,23 @@ Thank you for visiting my GitHub profile!
 <div align="center">
   <img
     alt="GitHub contribution snake"
-    src="/snake/github-snake.svg" />
+    src="snake/github-snake.svg" />
 </div>
 
 
 <div align="center">
   <img
     alt="GitHub contribution Map"
-    src="/profile-3d-contrib/profile-season-animate.svg" />
+    src="profile-3d-contrib/profile-season-animate.svg" />
 </div>
 
 
 
 ### My Medium Blogs
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0"></a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1" alt="Recent Article 1"></a>
 
 ![](https://komarev.com/ghpvc/?username=ambideXtrous9)
 

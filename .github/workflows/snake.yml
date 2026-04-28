@@ -5,13 +5,16 @@ on:
     - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout the main branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: main  # checkout main branch to commit snake SVGs there
 
