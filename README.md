@@ -1,7 +1,7 @@
-## Hi, I am Sushovan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="40" height="40" /> !
+## Hi, I am Sushovan 👨‍🎓!
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="blank"><img align="center" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" width="200" height="200" /></a>
+  <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="blank"><img align="center" src="https://i.giphy.com/90svegEKA9hfJjVsIF.gif" width="200" height="200" style="background-color: transparent;" /></a>
 </p>
 
 
@@ -22,17 +22,17 @@
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/62ecdc18b72a69615d6bd857/E4lkPz1TZNLzIFr_dR273.png" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://miro.medium.com/v2/resize:fit:1196/0*GuAKET2lI82IcBrW.png" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*-7HC-GJCxjn-Dm7i.png" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/lightning.png?raw=true" width="50" height="50" style="display:inline-block; margin:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="display:inline-block; margin:4px;" />
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50" /></span>
+  <span><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" /></span>
+  <span><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="50" height="50" /></span>
+  <span><img src="https://cdn-avatars.huggingface.co/v1/production/uploads/62ecdc18b72a69615d6bd857/E4lkPz1TZNLzIFr_dR273.png" width="50" height="50" /></span>
+  <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50" /></span>
+  <span><img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/huggingface.png?raw=true" width="50" height="50" /></span>
+  <span><img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" width="50" height="50" /></span>
+  <span><img src="https://miro.medium.com/v2/resize:fit:1196/0*GuAKET2lI82IcBrW.png" width="50" height="50" /></span>
+  <span><img src="https://miro.medium.com/v2/resize:fit:1400/0*-7HC-GJCxjn-Dm7i.png" width="50" height="50" /></span>
+  <span><img src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/lightning.png?raw=true" width="50" height="50" /></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /></span>
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github,docker,gcp,aws,githubactions&perline=11)](https://skillicons.dev)  
