@@ -1,7 +1,7 @@
 ## Hi, I am Sushovan 👨‍🎓!
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="blank"><img align="center" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" width="200" height="200" /></a>
+  <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="blank"><img align="center" src="https://github.com/ambideXtrous9/ambideXtrous9/blob/main/icons/ironman.gif?raw=true" width="200" height="200" /></a>
 </p>
 
 
