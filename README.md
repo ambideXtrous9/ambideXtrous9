@@ -60,25 +60,21 @@
 #### 🛠️ Frameworks & Ecosystem
 
 <p align="center">
-  <a href="https://livekit.io/" target="_blank"><img src="https://cdn.simpleicons.org/livekit/007AFF" width="48" height="48" alt="LiveKit" title="LiveKit Voice Agents" /></a> &nbsp;&nbsp;
-  <a href="https://langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" title="LangChain" /></a> &nbsp;&nbsp;
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="icons/langgraph.png" width="48" height="48" alt="LangGraph" title="LangGraph" /></a> &nbsp;&nbsp;
-  <a href="https://crewai.com/" target="_blank"><img src="icons/crewai.png" width="48" height="48" alt="CrewAI" title="CrewAI" /></a> &nbsp;&nbsp;
-  <a href="https://huggingface.co/" target="_blank"><img src="icons/huggingface.png" width="48" height="48" alt="Hugging Face" title="Hugging Face" /></a> &nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch" /></a> &nbsp;&nbsp;
-  <a href="https://lightning.ai/" target="_blank"><img src="icons/lightning.png" width="48" height="48" alt="PyTorch Lightning" title="PyTorch Lightning" /></a> &nbsp;&nbsp;
-  <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" title="Keras" /></a> &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/sushovansaha9" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle" title="Kaggle" /></a> &nbsp;&nbsp;
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Google Colab" title="Google Colab" /></a> &nbsp;&nbsp;
-  <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" title="Anaconda" /></a> &nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" title="Jupyter" /></a> &nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" title="FastAPI" /></a> &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" /></a>
+  <a href="https://livekit.io/" target="_blank"><img src="icons/tile_livekit.svg" width="48" height="48" alt="LiveKit" title="LiveKit" /></a>&nbsp;
+  <a href="https://langchain.com/" target="_blank"><img src="icons/tile_langchain.svg" width="48" height="48" alt="LangChain" title="LangChain" /></a>&nbsp;
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="icons/tile_langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph" /></a>&nbsp;
+  <a href="https://crewai.com/" target="_blank"><img src="icons/tile_crewai.svg" width="48" height="48" alt="CrewAI" title="CrewAI" /></a>&nbsp;
+  <a href="https://huggingface.co/" target="_blank"><img src="icons/tile_huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" /></a>&nbsp;
+  <a href="https://lightning.ai/" target="_blank"><img src="icons/tile_lightning.svg" width="48" height="48" alt="PyTorch Lightning" title="PyTorch Lightning" /></a>&nbsp;
+  <a href="https://keras.io/" target="_blank"><img src="icons/tile_keras.svg" width="48" height="48" alt="Keras" title="Keras" /></a>&nbsp;
+  <a href="https://www.kaggle.com/sushovansaha9" target="_blank"><img src="icons/tile_kaggle.svg" width="48" height="48" alt="Kaggle" title="Kaggle" /></a>&nbsp;
+  <a href="https://colab.research.google.com/" target="_blank"><img src="icons/tile_colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab" /></a>&nbsp;
+  <a href="https://unsloth.ai/" target="_blank"><img src="icons/tile_unsloth.svg" width="48" height="48" alt="Unsloth" title="Unsloth" /></a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,vscode,git,github,docker,gcp,aws,githubactions&perline=11" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,fastapi,linux,docker,aws,gcp,git,githubactions&perline=10" alt="Core Technologies" />
   </a>
 </p>
 
