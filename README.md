@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi, I am Sushovan 👨‍🎓!
+# Hi, I am Sushovan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="38" height="38" valign="middle" />!
 
 <p align="center">
   <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="_blank">
     <img src="icons/ironman.gif" alt="Iron Man" width="210" />
   </a>
 </p>
-
-### 🤖 Founding AI / ML Engineer &nbsp;|&nbsp; 🎓 M.Tech Data Science (IIT Guwahati) &nbsp;|&nbsp; 🏅 Kaggle Notebook Expert
 
 <p align="center">
   <a href="https://in.linkedin.com/in/sushovan-saha-29a00a113" target="_blank">
@@ -22,12 +20,6 @@
   </a>&nbsp;
   <a href="https://leetcode.com/ambideXtrous9/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/ambidextrous_9/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;
-  <a href="https://www.facebook.com/sushovan.saha.16/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
@@ -37,9 +29,9 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="38" height="38" valign="middle" /> About Me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="24" height="24" valign="middle" /> Hi there! I'm **Sushovan Saha** — a passionate **Machine Learning (ML)** practitioner with deep interests in **Machine Learning (ML)**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and the transformative capabilities of **Large Language Models (LLMs)** and **Gen AI**. Currently working as a founding **AI Engineer** at a Stealth Startup.
-        
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="24" height="24" valign="middle" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I’m currently a **Kaggle Notebook Expert** with a strong inclination toward solving real-world challenges using intelligent systems. Currently working as a founding **Machine Learning Engineer** at a Stealth Startup.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="24" height="24" valign="middle" /> Hi there! I'm **Sushovan Saha** — currently working as a **Founding AI / ML Engineer** at a **Stealth Startup**, building production-grade intelligent systems with deep focus on **Large Language Models (LLMs)**, **Generative AI**, **Voice Agents**, **Deep Learning**, **NLP**, and **Computer Vision (CV)**.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="24" height="24" valign="middle" /> I hold an **M.Tech in Data Science** from **IIT Guwahati**, and I'm a [**Kaggle Notebook Expert**](https://www.kaggle.com/sushovansaha9) with a strong inclination toward solving real-world challenges using intelligent systems.
 
 ---
 
