@@ -99,24 +99,29 @@ Explore my latest project powered by Gen AI agents and real-time research:
 
 <p><em>Thank you for visiting my GitHub profile!</em></p>
 
-<a href="https://git.io/awesome-stats-card" target="_blank">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ambidextrous9?cardType=octocat&theme=vue&fontFamily=Exo%202&preferLogin=false" alt="Sushovan's GitHub stats" />
-</a>
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" align="center" valign="middle">
+      <a href="https://git.io/awesome-stats-card" target="_blank">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ambidextrous9?cardType=octocat&theme=vue&fontFamily=Exo%202&preferLogin=false" alt="Sushovan's GitHub stats" width="100%" />
+      </a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+        <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
+        <img alt="GitHub contribution Map" src="profile-3d-contrib/profile-season-animate.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="snake/github-snake.svg">
   <img alt="GitHub contribution snake" src="snake/github-snake.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
-  <img alt="GitHub contribution Map" src="profile-3d-contrib/profile-season-animate.svg" width="100%" />
 </picture>
 
 </div>
@@ -127,19 +132,14 @@ Explore my latest project powered by Gen AI agents and real-time research:
 
 ### ✍️ My Medium Blogs
 
-<br/>
-
-<a target="_blank" href="https://medium.com/@sushovansaha95">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0" width="90%" />
-</a>
-
-<br/><br/>
-
-<a target="_blank" href="https://medium.com/@sushovansaha95">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1" alt="Recent Article 1" width="90%" />
-</a>
-
-<br/><br/>
+<p align="center">
+  <a target="_blank" href="https://medium.com/@sushovansaha95">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0" width="80%" />
+  </a><br/>
+  <a target="_blank" href="https://medium.com/@sushovansaha95">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/1" alt="Recent Article 1" width="80%" />
+  </a>
+</p>
 
 <a href="https://komarev.com/ghpvc/?username=ambideXtrous9">
   <img src="https://komarev.com/ghpvc/?username=ambideXtrous9&label=Profile%20Views&color=20BEFF&style=flat-square" alt="Profile Views" />
