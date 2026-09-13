@@ -51,7 +51,7 @@
 
 #### 🛠️ Frameworks & Ecosystem
 
-<p align="center">
+<p align="left">
   <a href="https://livekit.io/" target="_blank"><img src="icons/tile_livekit.svg" width="48" height="48" alt="LiveKit" title="LiveKit" /></a>&nbsp;
   <a href="https://langchain.com/" target="_blank"><img src="icons/tile_langchain.svg" width="48" height="48" alt="LangChain" title="LangChain" /></a>&nbsp;
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="icons/tile_langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph" /></a>&nbsp;
@@ -64,7 +64,7 @@
   <a href="https://unsloth.ai/" target="_blank"><img src="icons/tile_unsloth.svg" width="48" height="48" alt="Unsloth" title="Unsloth" /></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,fastapi,linux,docker,aws,gcp,git,githubactions&perline=10" alt="Core Technologies" />
   </a>
@@ -128,11 +128,9 @@ Explore my latest project powered by Gen AI agents and real-time research:
 
 ---
 
-<div align="center">
-
 ### ✍️ My Medium Blogs
 
-<p align="center">
+<p align="left">
   <a target="_blank" href="https://medium.com/@sushovansaha95">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sushovansaha95/0" alt="Recent Article 0" width="80%" />
   </a><br/>
@@ -141,8 +139,8 @@ Explore my latest project powered by Gen AI agents and real-time research:
   </a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=ambideXtrous9">
-  <img src="https://komarev.com/ghpvc/?username=ambideXtrous9&label=Profile%20Views&color=20BEFF&style=flat-square" alt="Profile Views" />
-</a>
-
-</div>
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=ambideXtrous9">
+    <img src="https://komarev.com/ghpvc/?username=ambideXtrous9&label=Profile%20Views&color=20BEFF&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
